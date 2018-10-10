@@ -1,2 +1,0 @@
-# eshopFrom
-Created with CodeSandbox
